@@ -20,3 +20,12 @@ Our software maximize according all variable nodes: if maximal EMD for this vari
 4. "Trapping_Sets" is the tool used for Chad Cole's Trapping sets search and weighting. Binary files for the search can be found at https://github.com/Lcrypto/trapping-sets-enumeration.
 5. Result - constructed block and convolutional MET QC-LDPC codes
 ![alt text](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8764048/8768805/8769083/usaty7-049-large.gif)
+
+
+
+Based on our (Usatyuk Vasiliy) results in the code distance challenge at https://decodingchallenge.org/low-weight/, it is strongly recommended to improve not only the EMD spectrum but also the EMD that has a strong correlation with code distance. In practice, we use the Lattice-based method (Kannan embeding, SVP, SBP) to achieve this goal, but you can use Dumer or Brouwer-Zimmerman implementation from GAP/MAGMA.
+https://decodingchallenge.org/low-weight/ : 
+![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
+
+
+
