@@ -23,7 +23,11 @@ Our software maximize according all variable nodes: if maximal EMD for this vari
 
 
 
-It is strongly recommended to improve not only the EMD spectrum but also the code (Hamming) distance. In practice, we use the Lattice-based method (Kannan embeding, SVP, SBP) to achieve this goal, but you can use Dumer or Brouwer-Zimmerman implementation from GAP/MAGMA.
+It is strongly recommended to improve not only the EMD spectrum but also the code (Hamming) distance, see https://github.com/Lcrypto/Length-und-Rate-adaptive-code . 
+
+
+
+In practice, we use the Lattice-based method (Kannan embeding, SVP, SBP) to achieve this goal, but you can use Dumer or Brouwer-Zimmerman implementation from GAP/MAGMA.
 According to our (Usatyuk Vasiliy) results in the code distance challenge at https://decodingchallenge.org/low-weight/, Lattice methods are superior:
 ![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
 
