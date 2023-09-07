@@ -21,7 +21,7 @@ Our software maximize according all variable nodes: if maximal EMD for this vari
 5. Result - constructed block and convolutional MET QC-LDPC codes
 ![alt text](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8764048/8768805/8769083/usaty7-049-large.gif)
 
-For simulation we use 2 bit soft demodulator results under 4 bit grid (simplest demodulator, futher simplication to 1 bit demodulator only work for hard decoder - like Bit-flipping). 
+For all simulation we use 2 bit soft demodulator results under 4 bit grid (simplest demodulator, futher simplication to 1 bit demodulator only work for hard decoder - like Bit-flipping). 
 
 It is strongly recommended to improve not only the EMD spectrum but also the code (Hamming) distance, see https://github.com/Lcrypto/Length-und-Rate-adaptive-code . 
 
