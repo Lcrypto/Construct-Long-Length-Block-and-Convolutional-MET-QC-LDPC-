@@ -23,7 +23,7 @@ Our software maximize according all variable nodes: if maximal EMD for this vari
 
 
 
-**In all simulation figures, we utilized 2-bit soft demodulator results within a 4-bit grid. It's important to note that this approach employs the simplest demodulator. Further simplification to a 1-bit demodulator is only effective for hard decoders, such as the Bit-flipping decoder available at GitHub - [Bit-flipping Decoder](https://github.com/Lcrypto/LDPC-Iterative-Bit-Flipping-family-decoders). For scenarios involving such decoders, it is advisable to employ specially constructed codes, which can be found at GitHub - [Algebraic QC-LDPC Codes](https://github.com/Lcrypto/Algebraic_QC-LDPC ).This choice of decoder and code construction plays a crucial role in the performance of the simulations.**
+**In all simulation figures, we utilized 2-bit soft demodulator results within a 4-bit grid. It's important to note that this approach employs the simplest demodulator. Further simplification to a 1-bit demodulator is only effective for hard decoders, such as the Bit-flipping decoder available at GitHub - [Bit-flipping Decoder](https://github.com/Lcrypto/LDPC-Iterative-Bit-Flipping-family-decoders). For scenarios involving such decoders, it is advisable to employ specially constructed codes, which can be found at GitHub - [Algebraic QC-LDPC Codes](https://github.com/Lcrypto/Algebraic_QC-LDPC ). This choice of decoder and code construction plays a crucial role in the performance of the simulations.**
 
 
 It is strongly recommended to improve not only the EMD spectrum but also the code (Hamming) distance, see https://github.com/Lcrypto/Length-und-Rate-adaptive-code . 
