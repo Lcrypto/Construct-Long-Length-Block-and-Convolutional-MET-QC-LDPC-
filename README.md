@@ -37,6 +37,8 @@ According to our (Usatyuk Vasiliy) results in the code distance challenge at htt
 Lattice method for code distance estimation:
 
 
+
+
 1.  Usatyuk V. S., Egorov S. I., "Heuristic Number Geometry Method for Finding Low-Weight Codeword in Linear Block Codes," 2024 26th International Conference on Digital Signal Processing and its Applications (DSPA), Moscow, Russian Federation, 2024, pp. 1-6  https://ieeexplore.ieee.org/document/10510086
 
 
@@ -49,13 +51,13 @@ Lattice method for code distance estimation:
 4. Usatjuk V.S. Computing the minimum distance of nonbinary ldpc codes using block korkin-zolotarev method. Proceedings of the Southwest State University Series: Control, Computer Engineering, Information Science. Medical Instruments Engineering. - 2015. - № 3 (16). - pp. 76-85. (Rus)
 
 
-5. Usatyuk V.S.. Implementation of the parallel shortest vector enumeration in the block Korkin–Zolotarev method Prikladnaya Diskretnaya Matematika. Supplement, pp. 130-131. (Rus)
+5. Usatyuk V.S.. Implementation of the parallel shortest vector enumeration in the block Korkin–Zolotarev method Prikladnaya Diskretnaya Matematika. Supplement, 2013, pp. 130-131. (Rus)
 
 
-6. Usatyuk V.S. The implementation of the parallel orthogonalization algorithms in the shortest integer lattices basis problem. Prikladnaya Diskretnaya Matematika. Supplement, pp. 120-122. (Rus)
+6. Usatyuk V.S. The implementation of the parallel orthogonalization algorithms in the shortest integer lattices basis problem. Prikladnaya Diskretnaya Matematika. Supplement, 2012, pp. 120-122. (Rus)
 
 
-7. Usatyuk V.S., Kuzmin O.V. Parallel algorithms for integer lattices basis reduction V 1,  2015, pp. 55-62. (Rus)
+7. Usatyuk V.S., Kuzmin O.V. Parallel algorithms for integer lattices basis reduction, V. 1,  2015, pp. 55-62. (Rus)
 
 
 
