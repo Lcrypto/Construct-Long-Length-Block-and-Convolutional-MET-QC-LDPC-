@@ -34,7 +34,7 @@ In practice, we use the Lattice-based method (Kannan embeding, SVP, SBP, Block K
 According to our (Usatyuk Vasiliy) results in the code distance challenge at https://decodingchallenge.org/low-weight/, Lattice methods are superior:
 ![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
 
-Lattice method for code distance estimation:
+Lattice method for code (Hamming) distance estimation:
 
 
 
