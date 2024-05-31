@@ -40,7 +40,7 @@ Lattice method for code distance estimation:
 1. Usatyuk V.S., E. Sergey and G. Svistunov, "Construction of Length and Rate Adaptive MET QC-LDPC Codes by Cyclic Group Decomposition," 2019 IEEE East-West Design & Test Symposium (EWDTS), Batumi, Georgia, 2019, pp. 1-5
 
    
-2. Usatyuk V.S., Yegorov S.I. CONSTRUCTION OF QUASI-CYCLIC NON-BINARY LDPC CODES, BASED ON JOINT OPTIMIZATION OF DISTANCE PROPERTIES AND CONNECTION SPECTRA OF CODES. Telecommunications and Radio Engineering №8, 2016, pp. 32-40
+2. Usatyuk V.S., Yegorov S.I. Construction of quasi-cyclic non-binary LDPC codes, based on joint optimization of distance properties and connection spectra of codes. Telecommunications and Radio Engineering №8, 2016, pp. 32-40
 
    
 3. Usatjuk V.S. Computing the minimum distance of nonbinary ldpc codes using block korkin-zolotarev method. Proceedings of the Southwest State University Series: Control, Computer Engineering, Information Science. Medical Instruments Engineering. - 2015. - № 3 (16). - pp. 76-85.
